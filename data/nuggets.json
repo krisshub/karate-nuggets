@@ -392,7 +392,11 @@
     "id": "KN-B001",
     "title": "Core Workout",
     "category": "Back to Basics",
-    "tags": ["Core", "Workout", "Fundamentals"],
+    "tags": [
+      "Core",
+      "Workout",
+      "Fundamentals"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/back-to-basics/b2b-core-workout.jpg",
     "download": "assets/nuggets/back-to-basics/b2b-core-workout.jpg",
@@ -402,7 +406,11 @@
     "id": "KN-B002",
     "title": "Full Body HYROX Workout",
     "category": "Back to Basics",
-    "tags": ["Full Body", "HYROX", "Conditioning"],
+    "tags": [
+      "Full Body",
+      "HYROX",
+      "Conditioning"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/back-to-basics/b2b-full-body-hyrox.jpg",
     "download": "assets/nuggets/back-to-basics/b2b-full-body-hyrox.jpg",
@@ -412,7 +420,11 @@
     "id": "KN-B003",
     "title": "Full Body Workout",
     "category": "Back to Basics",
-    "tags": ["Full Body", "Workout", "Fitness"],
+    "tags": [
+      "Full Body",
+      "Workout",
+      "Fitness"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/back-to-basics/b2b-full-body-workout.jpg",
     "download": "assets/nuggets/back-to-basics/b2b-full-body-workout.jpg",
@@ -422,7 +434,11 @@
     "id": "KN-B004",
     "title": "Kumite HYROX Workout",
     "category": "Back to Basics",
-    "tags": ["Kumite", "HYROX", "Conditioning"],
+    "tags": [
+      "Kumite",
+      "HYROX",
+      "Conditioning"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/back-to-basics/b2b-kumite-hyrox.jpg",
     "download": "assets/nuggets/back-to-basics/b2b-kumite-hyrox.jpg",
@@ -432,7 +448,11 @@
     "id": "KN-B005",
     "title": "Planks Workout",
     "category": "Back to Basics",
-    "tags": ["Core", "Plank", "Strength"],
+    "tags": [
+      "Core",
+      "Plank",
+      "Strength"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/back-to-basics/b2b-planks-workout.jpg",
     "download": "assets/nuggets/back-to-basics/b2b-planks-workout.jpg",
@@ -442,7 +462,11 @@
     "id": "KN-B006",
     "title": "Push-Up Workout",
     "category": "Back to Basics",
-    "tags": ["Push-Ups", "Upper Body", "Strength"],
+    "tags": [
+      "Push-Ups",
+      "Upper Body",
+      "Strength"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/back-to-basics/b2b-pushup-workout.jpg",
     "download": "assets/nuggets/back-to-basics/b2b-pushup-workout.jpg",
@@ -452,7 +476,11 @@
     "id": "KN-B007",
     "title": "Sit-Ups Workout",
     "category": "Back to Basics",
-    "tags": ["Sit-Ups", "Core", "Strength"],
+    "tags": [
+      "Sit-Ups",
+      "Core",
+      "Strength"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/back-to-basics/b2b-situps-workout.jpg",
     "download": "assets/nuggets/back-to-basics/b2b-situps-workout.jpg",
@@ -462,7 +490,11 @@
     "id": "KN-B008",
     "title": "Squats Workout",
     "category": "Back to Basics",
-    "tags": ["Squats", "Lower Body", "Strength"],
+    "tags": [
+      "Squats",
+      "Lower Body",
+      "Strength"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/back-to-basics/b2b-squats-workout.jpg",
     "download": "assets/nuggets/back-to-basics/b2b-squats-workout.jpg",
@@ -472,7 +504,11 @@
     "id": "KN-I001",
     "title": "Black Belt Titles – Part 1",
     "category": "Insights",
-    "tags": ["Black Belt", "Titles", "Terminology"],
+    "tags": [
+      "Black Belt",
+      "Titles",
+      "Terminology"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-black-belt-titles-1.jpg",
     "download": "assets/nuggets/insights/insights-black-belt-titles-1.jpg",
@@ -482,7 +518,11 @@
     "id": "KN-I002",
     "title": "Black Belt Titles – Part 2",
     "category": "Insights",
-    "tags": ["Black Belt", "Titles", "Terminology"],
+    "tags": [
+      "Black Belt",
+      "Titles",
+      "Terminology"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-black-belt-titles-2.jpg",
     "download": "assets/nuggets/insights/insights-black-belt-titles-2.jpg",
@@ -492,7 +532,11 @@
     "id": "KN-I003",
     "title": "Goju-Ryu",
     "category": "Insights",
-    "tags": ["Goju-Ryu", "Karate Styles", "History"],
+    "tags": [
+      "Goju-Ryu",
+      "Karate Styles",
+      "History"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-goju-ryu.jpg",
     "download": "assets/nuggets/insights/insights-goju-ryu.jpg",
@@ -502,7 +546,11 @@
     "id": "KN-I004",
     "title": "Karate in Life",
     "category": "Insights",
-    "tags": ["Life Lessons", "Philosophy", "Discipline"],
+    "tags": [
+      "Life Lessons",
+      "Philosophy",
+      "Discipline"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-karate-in-life.jpg",
     "download": "assets/nuggets/insights/insights-karate-in-life.jpg",
@@ -512,7 +560,11 @@
     "id": "KN-I005",
     "title": "Progression of Kumite",
     "category": "Insights",
-    "tags": ["Kumite", "Sparring", "Training"],
+    "tags": [
+      "Kumite",
+      "Sparring",
+      "Training"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-kumite-progression.jpg",
     "download": "assets/nuggets/insights/insights-kumite-progression.jpg",
@@ -522,7 +574,11 @@
     "id": "KN-I006",
     "title": "Kyokushin",
     "category": "Insights",
-    "tags": ["Kyokushin", "Karate Styles", "History"],
+    "tags": [
+      "Kyokushin",
+      "Karate Styles",
+      "History"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-kyokushin.jpg",
     "download": "assets/nuggets/insights/insights-kyokushin.jpg",
@@ -532,7 +588,11 @@
     "id": "KN-I007",
     "title": "Martial Art Styles",
     "category": "Insights",
-    "tags": ["Martial Arts", "Styles", "History"],
+    "tags": [
+      "Martial Arts",
+      "Styles",
+      "History"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-martial-art-styles.jpg",
     "download": "assets/nuggets/insights/insights-martial-art-styles.jpg",
@@ -542,7 +602,11 @@
     "id": "KN-I008",
     "title": "Okinawa",
     "category": "Insights",
-    "tags": ["Okinawa", "Karate History", "Origins"],
+    "tags": [
+      "Okinawa",
+      "Karate History",
+      "Origins"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-okinawa.jpg",
     "download": "assets/nuggets/insights/insights-okinawa.jpg",
@@ -552,7 +616,11 @@
     "id": "KN-I009",
     "title": "Sanchin Kata",
     "category": "Insights",
-    "tags": ["Sanchin", "Kata", "Goju-Ryu"],
+    "tags": [
+      "Sanchin",
+      "Kata",
+      "Goju-Ryu"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-sanchin-kata.jpg",
     "download": "assets/nuggets/insights/insights-sanchin-kata.jpg",
@@ -562,7 +630,11 @@
     "id": "KN-I010",
     "title": "Sanchin",
     "category": "Insights",
-    "tags": ["Sanchin", "Goju-Ryu", "Fundamentals"],
+    "tags": [
+      "Sanchin",
+      "Goju-Ryu",
+      "Fundamentals"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-sanchin.jpg",
     "download": "assets/nuggets/insights/insights-sanchin.jpg",
@@ -572,7 +644,11 @@
     "id": "KN-I011",
     "title": "Shito-Ryu",
     "category": "Insights",
-    "tags": ["Shito-Ryu", "Karate Styles", "History"],
+    "tags": [
+      "Shito-Ryu",
+      "Karate Styles",
+      "History"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-shito-ryu.jpg",
     "download": "assets/nuggets/insights/insights-shito-ryu.jpg",
@@ -582,7 +658,11 @@
     "id": "KN-I012",
     "title": "Shotokan",
     "category": "Insights",
-    "tags": ["Shotokan", "Karate Styles", "History"],
+    "tags": [
+      "Shotokan",
+      "Karate Styles",
+      "History"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-shotokan.jpg",
     "download": "assets/nuggets/insights/insights-shotokan.jpg",
@@ -592,7 +672,11 @@
     "id": "KN-I013",
     "title": "States of Mind in Karate",
     "category": "Insights",
-    "tags": ["Mindset", "Philosophy", "Mental Training"],
+    "tags": [
+      "Mindset",
+      "Philosophy",
+      "Mental Training"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-states-of-mind-in-karate.jpg",
     "download": "assets/nuggets/insights/insights-states-of-mind-in-karate.jpg",
@@ -602,7 +686,11 @@
     "id": "KN-I014",
     "title": "Styles of Karate",
     "category": "Insights",
-    "tags": ["Karate Styles", "Comparison", "History"],
+    "tags": [
+      "Karate Styles",
+      "Comparison",
+      "History"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-styles-of-karate.jpg",
     "download": "assets/nuggets/insights/insights-styles-of-karate.jpg",
@@ -612,7 +700,11 @@
     "id": "KN-I015",
     "title": "Types of Kumite",
     "category": "Insights",
-    "tags": ["Kumite", "Sparring", "Techniques"],
+    "tags": [
+      "Kumite",
+      "Sparring",
+      "Techniques"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-types-of-kumite.jpg",
     "download": "assets/nuggets/insights/insights-types-of-kumite.jpg",
@@ -622,7 +714,11 @@
     "id": "KN-I016",
     "title": "Wado-Ryu",
     "category": "Insights",
-    "tags": ["Wado-Ryu", "Karate Styles", "History"],
+    "tags": [
+      "Wado-Ryu",
+      "Karate Styles",
+      "History"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-wado-ryu.jpg",
     "download": "assets/nuggets/insights/insights-wado-ryu.jpg",
@@ -632,7 +728,11 @@
     "id": "KN-I017",
     "title": "World Karate Day",
     "category": "Insights",
-    "tags": ["Karate Events", "World Karate Day", "Community"],
+    "tags": [
+      "Karate Events",
+      "World Karate Day",
+      "Community"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-world-karate-day.jpg",
     "download": "assets/nuggets/insights/insights-world-karate-day.jpg",
@@ -642,7 +742,11 @@
     "id": "KN-I018",
     "title": "Zanshin",
     "category": "Insights",
-    "tags": ["Zanshin", "Mindset", "Karate Philosophy"],
+    "tags": [
+      "Zanshin",
+      "Mindset",
+      "Karate Philosophy"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/insights/insights-zanshin.jpg",
     "download": "assets/nuggets/insights/insights-zanshin.jpg",
@@ -652,7 +756,11 @@
     "id": "KN-S001",
     "title": "All the Best",
     "category": "Specials",
-    "tags": ["Greetings", "Motivation", "Special Occasions"],
+    "tags": [
+      "Greetings",
+      "Motivation",
+      "Special Occasions"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/specials/special-all-the-best.jpg",
     "download": "assets/nuggets/specials/special-all-the-best.jpg",
@@ -662,7 +770,11 @@
     "id": "KN-S002",
     "title": "Guru Purnima",
     "category": "Specials",
-    "tags": ["Guru Purnima", "Teachers", "Respect"],
+    "tags": [
+      "Guru Purnima",
+      "Teachers",
+      "Respect"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/specials/special-guru-purnima.jpg",
     "download": "assets/nuggets/specials/special-guru-purnima.jpg",
@@ -672,7 +784,11 @@
     "id": "KN-S003",
     "title": "Hoshang Batliwala Sensei",
     "category": "Specials",
-    "tags": ["Sensei", "Karate Masters", "Tribute"],
+    "tags": [
+      "Sensei",
+      "Karate Masters",
+      "Tribute"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/specials/special-hb-sensei.jpg",
     "download": "assets/nuggets/specials/special-hb-sensei.jpg",
@@ -682,7 +798,11 @@
     "id": "KN-S004",
     "title": "Mother's Day",
     "category": "Specials",
-    "tags": ["Mothers Day", "Family", "Celebration"],
+    "tags": [
+      "Mothers Day",
+      "Family",
+      "Celebration"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/specials/special-mothers-day.jpg",
     "download": "assets/nuggets/specials/special-mothers-day.jpg",
@@ -692,10 +812,182 @@
     "id": "KN-S005",
     "title": "Teachers' Day",
     "category": "Specials",
-    "tags": ["Teachers Day", "Teachers", "Respect"],
+    "tags": [
+      "Teachers Day",
+      "Teachers",
+      "Respect"
+    ],
     "description": "",
     "thumbnail": "assets/nuggets/specials/special-teachers-day.jpg",
     "download": "assets/nuggets/specials/special-teachers-day.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-C001",
+    "title": "Anil",
+    "category": "World Champion Competitors",
+    "tags": [
+      "World Champions",
+      "Competitors",
+      "Karate"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/competitors/competitors-anil.jpg",
+    "download": "assets/nuggets/competitors/competitors-anil.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-C002",
+    "title": "Kiyou",
+    "category": "World Champion Competitors",
+    "tags": [
+      "World Champions",
+      "Competitors",
+      "Karate"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/competitors/competitors-kiyou.jpg",
+    "download": "assets/nuggets/competitors/competitors-kiyou.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-C003",
+    "title": "Rafael",
+    "category": "World Champion Competitors",
+    "tags": [
+      "World Champions",
+      "Competitors",
+      "Karate"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/competitors/competitors-rafael.jpg",
+    "download": "assets/nuggets/competitors/competitors-rafael.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-C004",
+    "title": "Sandra",
+    "category": "World Champion Competitors",
+    "tags": [
+      "World Champions",
+      "Competitors",
+      "Karate"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/competitors/competitors-sandra.jpg",
+    "download": "assets/nuggets/competitors/competitors-sandra.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-E001",
+    "title": "Go-Kyu Exam Syllabus",
+    "category": "Exam Syllabus",
+    "tags": [
+      "Grading",
+      "Exam Syllabus",
+      "Go-Kyu"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/exam-syllabus/exam-syllabus-go-kyu.jpg",
+    "download": "assets/nuggets/exam-syllabus/exam-syllabus-go-kyu.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-E002",
+    "title": "Hachi-Kyu Exam Syllabus",
+    "category": "Exam Syllabus",
+    "tags": [
+      "Grading",
+      "Exam Syllabus",
+      "Hachi-Kyu"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/exam-syllabus/exam-syllabus-hachi-kyu.jpg",
+    "download": "assets/nuggets/exam-syllabus/exam-syllabus-hachi-kyu.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-E003",
+    "title": "Ichi-Kyu Exam Syllabus",
+    "category": "Exam Syllabus",
+    "tags": [
+      "Grading",
+      "Exam Syllabus",
+      "Ichi-Kyu"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/exam-syllabus/exam-syllabus-ichi-kyu.jpg",
+    "download": "assets/nuggets/exam-syllabus/exam-syllabus-ichi-kyu.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-E004",
+    "title": "Nana-Kyu Exam Syllabus",
+    "category": "Exam Syllabus",
+    "tags": [
+      "Grading",
+      "Exam Syllabus",
+      "Nana-Kyu"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/exam-syllabus/exam-syllabus-nana-kyu.jpg",
+    "download": "assets/nuggets/exam-syllabus/exam-syllabus-nana-kyu.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-E005",
+    "title": "Ni-Kyu Exam Syllabus",
+    "category": "Exam Syllabus",
+    "tags": [
+      "Grading",
+      "Exam Syllabus",
+      "Ni-Kyu"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/exam-syllabus/exam-syllabus-ni-kyu.jpg",
+    "download": "assets/nuggets/exam-syllabus/exam-syllabus-ni-kyu.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-E006",
+    "title": "Roku-Kyu Exam Syllabus",
+    "category": "Exam Syllabus",
+    "tags": [
+      "Grading",
+      "Exam Syllabus",
+      "Roku-Kyu"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/exam-syllabus/exam-syllabus-roku-kyu.jpg",
+    "download": "assets/nuggets/exam-syllabus/exam-syllabus-roku-kyu.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-E007",
+    "title": "San-Kyu Exam Syllabus",
+    "category": "Exam Syllabus",
+    "tags": [
+      "Grading",
+      "Exam Syllabus",
+      "San-Kyu"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/exam-syllabus/exam-syllabus-san-kyu.jpg",
+    "download": "assets/nuggets/exam-syllabus/exam-syllabus-san-kyu.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-E008",
+    "title": "Yon-Kyu Exam Syllabus",
+    "category": "Exam Syllabus",
+    "tags": [
+      "Grading",
+      "Exam Syllabus",
+      "Yon-Kyu"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/exam-syllabus/exam-syllabus-yon-kyu.jpg",
+    "download": "assets/nuggets/exam-syllabus/exam-syllabus-yon-kyu.jpg",
     "featured": false
   }
 ]
