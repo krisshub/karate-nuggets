@@ -1,22 +1,5 @@
 [
   {
-    "id": "KN-001",
-    "title": "Ryo Kiyuna",
-    "subtitle": "A Legend of Karate",
-    "category": "Masters",
-    "tags": [
-      "Legends",
-      "Japan",
-      "Kata",
-      "Olympics"
-    ],
-    "description": "",
-    "thumbnail": "assets/nuggets/masters/ryo-kiyuna.png",
-    "download": "assets/nuggets/masters/ryo-kiyuna.png",
-    "featured": true,
-    "dateAdded": "2026-11-15"
-  },
-  {
     "id": "KN-M001",
     "title": "Bodhidharma",
     "category": "Masters",
@@ -31,7 +14,7 @@
   },
   {
     "id": "KN-M002",
-    "title": "Bruce Lee",
+    "title": "Master Bruce Lee",
     "category": "Masters",
     "tags": [
       "Masters",
@@ -44,7 +27,7 @@
   },
   {
     "id": "KN-M003",
-    "title": "Chojun Miyagi",
+    "title": "Master Chojun Miyagi",
     "category": "Masters",
     "tags": [
       "Masters",
@@ -57,7 +40,7 @@
   },
   {
     "id": "KN-M004",
-    "title": "Gichin",
+    "title": "Master Gichin Funakoshi",
     "category": "Masters",
     "tags": [
       "Masters",
@@ -70,7 +53,7 @@
   },
   {
     "id": "KN-M005",
-    "title": "Goken",
+    "title": "Late Hanshi Goken Yamaguchi",
     "category": "Masters",
     "tags": [
       "Masters",
@@ -83,7 +66,7 @@
   },
   {
     "id": "KN-M006",
-    "title": "Hoshang",
+    "title": "Hanshi Hoshang Batliwala",
     "category": "Masters",
     "tags": [
       "Masters",
@@ -92,11 +75,11 @@
     "description": "",
     "thumbnail": "assets/nuggets/masters/masters-hoshang.jpg",
     "download": "assets/nuggets/masters/masters-hoshang.jpg",
-    "featured": false
+    "featured": true
   },
   {
     "id": "KN-M007",
-    "title": "Ip Man",
+    "title": "Master Ip Man",
     "category": "Masters",
     "tags": [
       "Masters",
@@ -109,7 +92,7 @@
   },
   {
     "id": "KN-M008",
-    "title": "Jigaro",
+    "title": "Master Dr. Jigaro Kano",
     "category": "Masters",
     "tags": [
       "Masters",
@@ -122,7 +105,7 @@
   },
   {
     "id": "KN-M009",
-    "title": "Kanryo",
+    "title": "Grandmaster Kanryo Higaonna",
     "category": "Masters",
     "tags": [
       "Masters",
@@ -135,7 +118,7 @@
   },
   {
     "id": "KN-M010",
-    "title": "Masanobu",
+    "title": "Late Hanshi Masanobu Shinjo",
     "category": "Masters",
     "tags": [
       "Masters",
@@ -148,7 +131,7 @@
   },
   {
     "id": "KN-M011",
-    "title": "Masashi",
+    "title": "Kancho Masashi Shinjo",
     "category": "Masters",
     "tags": [
       "Masters",
@@ -161,7 +144,7 @@
   },
   {
     "id": "KN-M012",
-    "title": "Morio",
+    "title": "Hanshi Morio Higaonna",
     "category": "Masters",
     "tags": [
       "Masters",
@@ -174,7 +157,7 @@
   },
   {
     "id": "KN-M013",
-    "title": "Oyama",
+    "title": "Late Hanshi Masutatsu Oyama",
     "category": "Masters",
     "tags": [
       "Masters",
@@ -187,7 +170,7 @@
   },
   {
     "id": "KN-M014",
-    "title": "Pervez",
+    "title": "Sensei Pervez Mistry",
     "category": "Masters",
     "tags": [
       "Masters",
@@ -200,7 +183,7 @@
   },
   {
     "id": "KN-M015",
-    "title": "Seiki Takushi",
+    "title": "Late Hanshi Seiki Takushi",
     "category": "Masters",
     "tags": [
       "Masters",
@@ -213,7 +196,7 @@
   },
   {
     "id": "KN-M016",
-    "title": "Ueshiba",
+    "title": "Master Morihei Ueshiba",
     "category": "Masters",
     "tags": [
       "Masters",
@@ -222,6 +205,497 @@
     "description": "",
     "thumbnail": "assets/nuggets/masters/masters-ueshiba.jpg",
     "download": "assets/nuggets/masters/masters-ueshiba.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-Q001",
+    "title": "Advanced Kata",
+    "category": "Quick Reference",
+    "tags": [
+      "Kata",
+      "Advanced",
+      "Reference"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/quick-reference/quick-ref-advanced-kata.jpg",
+    "download": "assets/nuggets/quick-reference/quick-ref-advanced-kata.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-Q002",
+    "title": "Karate Badges",
+    "category": "Quick Reference",
+    "tags": [
+      "Badges",
+      "Reference"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/quick-reference/quick-ref-badge.jpg",
+    "download": "assets/nuggets/quick-reference/quick-ref-badge.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-Q003",
+    "title": "Banned Target Zones",
+    "category": "Quick Reference",
+    "tags": [
+      "Kumite",
+      "Rules",
+      "Competition"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/quick-reference/quick-ref-banned-target-zones.jpg",
+    "download": "assets/nuggets/quick-reference/quick-ref-banned-target-zones.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-Q004",
+    "title": "Dachi – Kata",
+    "category": "Quick Reference",
+    "tags": [
+      "Dachi",
+      "Stances",
+      "Kata"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/quick-reference/quick-ref-dachi-kata.jpg",
+    "download": "assets/nuggets/quick-reference/quick-ref-dachi-kata.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-Q005",
+    "title": "Dojo Kun",
+    "category": "Quick Reference",
+    "tags": [
+      "Dojo",
+      "Philosophy",
+      "Etiquette"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/quick-reference/quick-ref-dojo-kun.jpg",
+    "download": "assets/nuggets/quick-reference/quick-ref-dojo-kun.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-Q006",
+    "title": "Exam Progression",
+    "category": "Quick Reference",
+    "tags": [
+      "Grading",
+      "Belts",
+      "Examination"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/quick-reference/quick-ref-exam-progression.jpg",
+    "download": "assets/nuggets/quick-reference/quick-ref-exam-progression.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-Q007",
+    "title": "Goju-Ryu Stances",
+    "category": "Quick Reference",
+    "tags": [
+      "Goju-Ryu",
+      "Dachi",
+      "Stances"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/quick-reference/quick-ref-goju-stances.jpg",
+    "download": "assets/nuggets/quick-reference/quick-ref-goju-stances.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-Q008",
+    "title": "Hojo Undo",
+    "category": "Quick Reference",
+    "tags": [
+      "Goju-Ryu",
+      "Conditioning",
+      "Training"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/quick-reference/quick-ref-hojo-undo.jpg",
+    "download": "assets/nuggets/quick-reference/quick-ref-hojo-undo.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-Q009",
+    "title": "Karate-Do",
+    "category": "Quick Reference",
+    "tags": [
+      "Karate",
+      "Philosophy",
+      "History"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/quick-reference/quick-ref-karate-do.jpg",
+    "download": "assets/nuggets/quick-reference/quick-ref-karate-do.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-Q010",
+    "title": "Katas",
+    "category": "Quick Reference",
+    "tags": [
+      "Kata",
+      "Goju-Ryu",
+      "Reference"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/quick-reference/quick-ref-katas.jpg",
+    "download": "assets/nuggets/quick-reference/quick-ref-katas.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-Q011",
+    "title": "Kumite Criteria",
+    "category": "Quick Reference",
+    "tags": [
+      "Kumite",
+      "Rules",
+      "Competition"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/quick-reference/quick-ref-kumite-criteria.jpg",
+    "download": "assets/nuggets/quick-reference/quick-ref-kumite-criteria.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-Q012",
+    "title": "Karate Masters",
+    "category": "Quick Reference",
+    "tags": [
+      "Masters",
+      "History",
+      "Reference"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/quick-reference/quick-ref-masters.jpg",
+    "download": "assets/nuggets/quick-reference/quick-ref-masters.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-Q013",
+    "title": "Seiken",
+    "category": "Quick Reference",
+    "tags": [
+      "Kihon",
+      "Techniques",
+      "Terminology"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/quick-reference/quick-ref-seiken.jpg",
+    "download": "assets/nuggets/quick-reference/quick-ref-seiken.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-B001",
+    "title": "Core Workout",
+    "category": "Back to Basics",
+    "tags": ["Core", "Workout", "Fundamentals"],
+    "description": "",
+    "thumbnail": "assets/nuggets/back-to-basics/b2b-core-workout.jpg",
+    "download": "assets/nuggets/back-to-basics/b2b-core-workout.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-B002",
+    "title": "Full Body HYROX Workout",
+    "category": "Back to Basics",
+    "tags": ["Full Body", "HYROX", "Conditioning"],
+    "description": "",
+    "thumbnail": "assets/nuggets/back-to-basics/b2b-full-body-hyrox.jpg",
+    "download": "assets/nuggets/back-to-basics/b2b-full-body-hyrox.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-B003",
+    "title": "Full Body Workout",
+    "category": "Back to Basics",
+    "tags": ["Full Body", "Workout", "Fitness"],
+    "description": "",
+    "thumbnail": "assets/nuggets/back-to-basics/b2b-full-body-workout.jpg",
+    "download": "assets/nuggets/back-to-basics/b2b-full-body-workout.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-B004",
+    "title": "Kumite HYROX Workout",
+    "category": "Back to Basics",
+    "tags": ["Kumite", "HYROX", "Conditioning"],
+    "description": "",
+    "thumbnail": "assets/nuggets/back-to-basics/b2b-kumite-hyrox.jpg",
+    "download": "assets/nuggets/back-to-basics/b2b-kumite-hyrox.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-B005",
+    "title": "Planks Workout",
+    "category": "Back to Basics",
+    "tags": ["Core", "Plank", "Strength"],
+    "description": "",
+    "thumbnail": "assets/nuggets/back-to-basics/b2b-planks-workout.jpg",
+    "download": "assets/nuggets/back-to-basics/b2b-planks-workout.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-B006",
+    "title": "Push-Up Workout",
+    "category": "Back to Basics",
+    "tags": ["Push-Ups", "Upper Body", "Strength"],
+    "description": "",
+    "thumbnail": "assets/nuggets/back-to-basics/b2b-pushup-workout.jpg",
+    "download": "assets/nuggets/back-to-basics/b2b-pushup-workout.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-B007",
+    "title": "Sit-Ups Workout",
+    "category": "Back to Basics",
+    "tags": ["Sit-Ups", "Core", "Strength"],
+    "description": "",
+    "thumbnail": "assets/nuggets/back-to-basics/b2b-situps-workout.jpg",
+    "download": "assets/nuggets/back-to-basics/b2b-situps-workout.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-B008",
+    "title": "Squats Workout",
+    "category": "Back to Basics",
+    "tags": ["Squats", "Lower Body", "Strength"],
+    "description": "",
+    "thumbnail": "assets/nuggets/back-to-basics/b2b-squats-workout.jpg",
+    "download": "assets/nuggets/back-to-basics/b2b-squats-workout.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I001",
+    "title": "Black Belt Titles – Part 1",
+    "category": "Insights",
+    "tags": ["Black Belt", "Titles", "Terminology"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-black-belt-titles-1.jpg",
+    "download": "assets/nuggets/insights/insights-black-belt-titles-1.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I002",
+    "title": "Black Belt Titles – Part 2",
+    "category": "Insights",
+    "tags": ["Black Belt", "Titles", "Terminology"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-black-belt-titles-2.jpg",
+    "download": "assets/nuggets/insights/insights-black-belt-titles-2.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I003",
+    "title": "Goju-Ryu",
+    "category": "Insights",
+    "tags": ["Goju-Ryu", "Karate Styles", "History"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-goju-ryu.jpg",
+    "download": "assets/nuggets/insights/insights-goju-ryu.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I004",
+    "title": "Karate in Life",
+    "category": "Insights",
+    "tags": ["Life Lessons", "Philosophy", "Discipline"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-karate-in-life.jpg",
+    "download": "assets/nuggets/insights/insights-karate-in-life.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I005",
+    "title": "Progression of Kumite",
+    "category": "Insights",
+    "tags": ["Kumite", "Sparring", "Training"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-kumite-progression.jpg",
+    "download": "assets/nuggets/insights/insights-kumite-progression.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I006",
+    "title": "Kyokushin",
+    "category": "Insights",
+    "tags": ["Kyokushin", "Karate Styles", "History"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-kyokushin.jpg",
+    "download": "assets/nuggets/insights/insights-kyokushin.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I007",
+    "title": "Martial Art Styles",
+    "category": "Insights",
+    "tags": ["Martial Arts", "Styles", "History"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-martial-art-styles.jpg",
+    "download": "assets/nuggets/insights/insights-martial-art-styles.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I008",
+    "title": "Okinawa",
+    "category": "Insights",
+    "tags": ["Okinawa", "Karate History", "Origins"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-okinawa.jpg",
+    "download": "assets/nuggets/insights/insights-okinawa.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I009",
+    "title": "Sanchin Kata",
+    "category": "Insights",
+    "tags": ["Sanchin", "Kata", "Goju-Ryu"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-sanchin-kata.jpg",
+    "download": "assets/nuggets/insights/insights-sanchin-kata.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I010",
+    "title": "Sanchin",
+    "category": "Insights",
+    "tags": ["Sanchin", "Goju-Ryu", "Fundamentals"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-sanchin.jpg",
+    "download": "assets/nuggets/insights/insights-sanchin.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I011",
+    "title": "Shito-Ryu",
+    "category": "Insights",
+    "tags": ["Shito-Ryu", "Karate Styles", "History"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-shito-ryu.jpg",
+    "download": "assets/nuggets/insights/insights-shito-ryu.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I012",
+    "title": "Shotokan",
+    "category": "Insights",
+    "tags": ["Shotokan", "Karate Styles", "History"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-shotokan.jpg",
+    "download": "assets/nuggets/insights/insights-shotokan.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I013",
+    "title": "States of Mind in Karate",
+    "category": "Insights",
+    "tags": ["Mindset", "Philosophy", "Mental Training"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-states-of-mind-in-karate.jpg",
+    "download": "assets/nuggets/insights/insights-states-of-mind-in-karate.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I014",
+    "title": "Styles of Karate",
+    "category": "Insights",
+    "tags": ["Karate Styles", "Comparison", "History"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-styles-of-karate.jpg",
+    "download": "assets/nuggets/insights/insights-styles-of-karate.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I015",
+    "title": "Types of Kumite",
+    "category": "Insights",
+    "tags": ["Kumite", "Sparring", "Techniques"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-types-of-kumite.jpg",
+    "download": "assets/nuggets/insights/insights-types-of-kumite.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I016",
+    "title": "Wado-Ryu",
+    "category": "Insights",
+    "tags": ["Wado-Ryu", "Karate Styles", "History"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-wado-ryu.jpg",
+    "download": "assets/nuggets/insights/insights-wado-ryu.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I017",
+    "title": "World Karate Day",
+    "category": "Insights",
+    "tags": ["Karate Events", "World Karate Day", "Community"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-world-karate-day.jpg",
+    "download": "assets/nuggets/insights/insights-world-karate-day.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-I018",
+    "title": "Zanshin",
+    "category": "Insights",
+    "tags": ["Zanshin", "Mindset", "Karate Philosophy"],
+    "description": "",
+    "thumbnail": "assets/nuggets/insights/insights-zanshin.jpg",
+    "download": "assets/nuggets/insights/insights-zanshin.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-S001",
+    "title": "All the Best",
+    "category": "Specials",
+    "tags": ["Greetings", "Motivation", "Special Occasions"],
+    "description": "",
+    "thumbnail": "assets/nuggets/specials/special-all-the-best.jpg",
+    "download": "assets/nuggets/specials/special-all-the-best.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-S002",
+    "title": "Guru Purnima",
+    "category": "Specials",
+    "tags": ["Guru Purnima", "Teachers", "Respect"],
+    "description": "",
+    "thumbnail": "assets/nuggets/specials/special-guru-purnima.jpg",
+    "download": "assets/nuggets/specials/special-guru-purnima.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-S003",
+    "title": "Hoshang Batliwala Sensei",
+    "category": "Specials",
+    "tags": ["Sensei", "Karate Masters", "Tribute"],
+    "description": "",
+    "thumbnail": "assets/nuggets/specials/special-hb-sensei.jpg",
+    "download": "assets/nuggets/specials/special-hb-sensei.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-S004",
+    "title": "Mother's Day",
+    "category": "Specials",
+    "tags": ["Mothers Day", "Family", "Celebration"],
+    "description": "",
+    "thumbnail": "assets/nuggets/specials/special-mothers-day.jpg",
+    "download": "assets/nuggets/specials/special-mothers-day.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-S005",
+    "title": "Teachers' Day",
+    "category": "Specials",
+    "tags": ["Teachers Day", "Teachers", "Respect"],
+    "description": "",
+    "thumbnail": "assets/nuggets/specials/special-teachers-day.jpg",
+    "download": "assets/nuggets/specials/special-teachers-day.jpg",
     "featured": false
   }
 ]
