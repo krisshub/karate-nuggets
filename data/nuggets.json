@@ -1,0 +1,19 @@
+[
+  {
+    "id": "KN-001",
+    "title": "Ryo Kiyuna",
+    "subtitle": "A Legend of Karate",
+    "category": "Masters",
+    "tags": [
+      "Legends",
+      "Japan",
+      "Kata",
+      "Olympics"
+    ],
+    "description": "A Karate Nuggets Legends profile celebrating Ryo Kiyuna and his achievements in kata.",
+    "thumbnail": "assets/nuggets/masters/ryo-kiyuna.png",
+    "download": "assets/nuggets/masters/ryo-kiyuna.png",
+    "featured": true,
+    "dateAdded": "2026-11-15"
+  }
+]

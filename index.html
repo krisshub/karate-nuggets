@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#071525">
+  <meta name="description" content="Explore the Karate Nuggets digital library: Masters, Quick Reference, Insights and Back to Basics.">
+  <title>Karate Nuggets | Learn · Practise · Apply</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="Karate Nuggets home">
+      <span><strong>KARATE NUGGETS</strong><small>Learn · Practise · Apply</small></span>
+    </a>
+    <nav class="main-nav" aria-label="Main navigation">
+      <a class="nav-link active" href="#home">Home</a>
+      <a class="nav-link" href="#library">All Nuggets</a>
+      <a class="nav-link" href="#library" data-nav-category="Masters">Masters</a>
+      <a class="nav-link" href="#library" data-nav-category="Quick Reference">Quick Reference</a>
+      <a class="nav-link" href="#library" data-nav-category="Insights">Insights</a>
+      <a class="nav-link" href="#library" data-nav-category="Back to Basics">Back to Basics</a>
+    </nav>
+    <button class="menu-toggle" id="menuToggle" aria-label="Toggle navigation" aria-expanded="false">☰</button>
+  </header>
+
+  <main>
+    <section class="hero" id="home">
+      <div class="hero-text">
+        <p class="eyebrow">THE KARATE KNOWLEDGE LIBRARY</p>
+        <h1>Small bites.<br><span>Big insights.</span></h1>
+        <p class="hero-copy">Explore the people, principles and practices that shape our journey in Karate.</p>
+        <a class="primary-button" href="#library">Explore all Nuggets <span>→</span></a>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <div class="sun-disc"></div><div class="brush brush-one"></div><div class="brush brush-two"></div>
+        <div class="hero-kanji">空手道</div>
+        <div class="hero-stamp">DISCIPLINE<br>RESPECT<br>EXCELLENCE</div>
+      </div>
+    </section>
+
+    <section class="library-section" id="library">
+      <div class="section-heading">
+        <div><p class="eyebrow">EXPLORE THE COLLECTION</p><h2>The Nuggets Library</h2></div>
+        <p class="collection-count" id="collectionCount">Loading collection…</p>
+      </div>
+
+      <div class="category-tabs" role="group" aria-label="Filter by category" id="categoryTabs">
+        <button class="category-tab selected" data-category="All Nuggets">All Nuggets</button>
+        <button class="category-tab" data-category="Masters">Masters</button>
+        <button class="category-tab" data-category="Quick Reference">Quick Reference</button>
+        <button class="category-tab" data-category="Insights">Insights</button>
+        <button class="category-tab" data-category="Back to Basics">Back to Basics</button>
+      </div>
+
+      <div class="toolbar">
+        <label class="search-box"><span aria-hidden="true">⌕</span><input id="searchInput" type="search" placeholder="Search titles, topics or tags…" autocomplete="off"></label>
+        <label class="sort-control"><span>Sort</span>
+          <select id="sortSelect"><option value="featured">Featured first</option><option value="newest">Newest first</option><option value="oldest">Oldest first</option><option value="az">Title A–Z</option></select>
+        </label>
+      </div>
+      <div class="tag-row" id="tagFilters" aria-label="Filter by tag"></div>
+
+      <div class="featured-wrap" id="featuredWrap">
+        <div class="subheading-row"><h3>Featured Nuggets</h3><div class="carousel-controls"><button id="carouselPrev" aria-label="Previous featured Nugget">←</button><button id="carouselNext" aria-label="Next featured Nugget">→</button></div></div>
+        <div class="featured-track" id="featuredTrack"></div>
+      </div>
+
+      <div class="subheading-row results-heading"><h3 id="resultsTitle">All Nuggets</h3><span id="resultsMeta"></span></div>
+      <div class="poster-grid" id="posterGrid" aria-live="polite"></div>
+      <div class="empty-state" id="emptyState" hidden>
+        <div class="empty-symbol">空手</div><h3>No Nuggets found</h3><p>Try another search term, category or tag.</p><button class="text-button" id="clearFilters">Clear filters</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-brand"><strong>KARATE NUGGETS</strong></div>
+    <p>Small bites. Big insights. A lifetime of Karate.</p>
+    <span class="footer-note">A learning initiative for the Karate community</span>
+  </footer>
+
+  <div class="modal" id="posterModal" aria-hidden="true" role="dialog" aria-modal="true" aria-label="Nugget poster viewer">
+    <div class="modal-backdrop" data-close-modal></div>
+    <div class="modal-panel">
+      <button class="modal-close" id="modalClose" aria-label="Close poster viewer">×</button>
+      <div class="modal-image-wrap"><img id="modalImage" alt=""></div>
+      <div class="modal-info"><div><p class="eyebrow" id="modalCategory"></p><h2 id="modalTitle"></h2><p id="modalDescription"></p><div class="modal-tags" id="modalTags"></div></div>
+        <a class="primary-button download-button" id="modalDownload" download>Download poster ↓</a>
+      </div>
+      <div class="modal-nav"><button id="modalPrev">← Previous</button><button id="modalNext">Next →</button></div>
+    </div>
+  </div>
+  <script src="js/app.js"></script>
+</body>
+</html>
