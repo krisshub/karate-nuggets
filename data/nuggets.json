@@ -10,10 +10,218 @@
       "Kata",
       "Olympics"
     ],
-    "description": "A Karate Nuggets Legends profile celebrating Ryo Kiyuna and his achievements in kata.",
+    "description": "",
     "thumbnail": "assets/nuggets/masters/ryo-kiyuna.png",
     "download": "assets/nuggets/masters/ryo-kiyuna.png",
     "featured": true,
     "dateAdded": "2026-11-15"
+  },
+  {
+    "id": "KN-M001",
+    "title": "Bodhidharma",
+    "category": "Masters",
+    "tags": [
+      "Masters",
+      "Legends"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/masters/masters-bodhidharma.jpg",
+    "download": "assets/nuggets/masters/masters-bodhidharma.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-M002",
+    "title": "Bruce Lee",
+    "category": "Masters",
+    "tags": [
+      "Masters",
+      "Legends"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/masters/masters-bruce-lee.jpg",
+    "download": "assets/nuggets/masters/masters-bruce-lee.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-M003",
+    "title": "Chojun Miyagi",
+    "category": "Masters",
+    "tags": [
+      "Masters",
+      "Legends"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/masters/masters-chogun-miyagi.jpg",
+    "download": "assets/nuggets/masters/masters-chogun-miyagi.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-M004",
+    "title": "Gichin",
+    "category": "Masters",
+    "tags": [
+      "Masters",
+      "Legends"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/masters/masters-gichin.jpg",
+    "download": "assets/nuggets/masters/masters-gichin.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-M005",
+    "title": "Goken",
+    "category": "Masters",
+    "tags": [
+      "Masters",
+      "Legends"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/masters/masters-goken.jpg",
+    "download": "assets/nuggets/masters/masters-goken.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-M006",
+    "title": "Hoshang",
+    "category": "Masters",
+    "tags": [
+      "Masters",
+      "Legends"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/masters/masters-hoshang.jpg",
+    "download": "assets/nuggets/masters/masters-hoshang.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-M007",
+    "title": "Ip Man",
+    "category": "Masters",
+    "tags": [
+      "Masters",
+      "Legends"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/masters/masters-ip-man.jpg",
+    "download": "assets/nuggets/masters/masters-ip-man.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-M008",
+    "title": "Jigaro",
+    "category": "Masters",
+    "tags": [
+      "Masters",
+      "Legends"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/masters/masters-jigaro.jpg",
+    "download": "assets/nuggets/masters/masters-jigaro.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-M009",
+    "title": "Kanryo",
+    "category": "Masters",
+    "tags": [
+      "Masters",
+      "Legends"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/masters/masters-kanryo.jpg",
+    "download": "assets/nuggets/masters/masters-kanryo.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-M010",
+    "title": "Masanobu",
+    "category": "Masters",
+    "tags": [
+      "Masters",
+      "Legends"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/masters/masters-masanobu.jpg",
+    "download": "assets/nuggets/masters/masters-masanobu.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-M011",
+    "title": "Masashi",
+    "category": "Masters",
+    "tags": [
+      "Masters",
+      "Legends"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/masters/masters-masashi.jpg",
+    "download": "assets/nuggets/masters/masters-masashi.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-M012",
+    "title": "Morio",
+    "category": "Masters",
+    "tags": [
+      "Masters",
+      "Legends"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/masters/masters-morio.jpg",
+    "download": "assets/nuggets/masters/masters-morio.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-M013",
+    "title": "Oyama",
+    "category": "Masters",
+    "tags": [
+      "Masters",
+      "Legends"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/masters/masters-oyama.jpg",
+    "download": "assets/nuggets/masters/masters-oyama.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-M014",
+    "title": "Pervez",
+    "category": "Masters",
+    "tags": [
+      "Masters",
+      "Legends"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/masters/masters-pervez.jpg",
+    "download": "assets/nuggets/masters/masters-pervez.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-M015",
+    "title": "Seiki Takushi",
+    "category": "Masters",
+    "tags": [
+      "Masters",
+      "Legends"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/masters/masters-seiki-takushi.jpg",
+    "download": "assets/nuggets/masters/masters-seiki-takushi.jpg",
+    "featured": false
+  },
+  {
+    "id": "KN-M016",
+    "title": "Ueshiba",
+    "category": "Masters",
+    "tags": [
+      "Masters",
+      "Legends"
+    ],
+    "description": "",
+    "thumbnail": "assets/nuggets/masters/masters-ueshiba.jpg",
+    "download": "assets/nuggets/masters/masters-ueshiba.jpg",
+    "featured": false
   }
 ]
