@@ -1,4 +1,4 @@
-const CATEGORIES = ["All Nuggets", "Masters", "Quick Reference", "Insights", "Back to Basics"];
+const CATEGORIES = ["All Nuggets", "Masters", "Quick Reference", "Insights", "Back to Basics", "World Champion Competitors", "Exam Syllabus", "Specials"];
 const state = { nuggets: [], category: "All Nuggets", tag: "", query: "", sort: "featured", featuredIndex: 0, modalIndex: -1 };
 const $ = (id) => document.getElementById(id);
 const escapeHtml = (value="") => String(value).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
